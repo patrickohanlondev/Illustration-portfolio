@@ -7,6 +7,9 @@ a {
   color: inherit;
 }
 
+iframe {
+  max-width: 100%;
+
 header {
   font-family: ;
   font-weight: bold;
