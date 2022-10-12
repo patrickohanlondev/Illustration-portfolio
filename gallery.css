@@ -62,6 +62,13 @@ footer {
   margin-top: 4rem;
 }
 
+@media only screen and (max-width: 420px) {
+  header {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  }
+
 @media only screen and (max-width: 855px) {
   body {
     padding: 1rem;
